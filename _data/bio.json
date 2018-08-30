@@ -2,23 +2,23 @@
   "basics": {
     "name": "Levy-Jean Matsuda",
     "label": "Student",
-    "picture": "https://techfolios.github.io/images/molly.png",
+    "picture": "https://techfolios.github.io/images/techfolio.png",
     "email": "levyjean@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "",
+    "website": "https://levyjeanmatsuda.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in spring 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96797",
+      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "levyjeanmatsu",
+        "url": "http://github.com/levyjeanmatsuda"
       },
       {
         "network": "linkedin",
@@ -39,19 +39,18 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Artificial Intelligence",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+      
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }

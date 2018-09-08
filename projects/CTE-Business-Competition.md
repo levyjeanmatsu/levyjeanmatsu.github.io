@@ -7,6 +7,10 @@ title: CTE Business Competition
 permalink: projects/ctebusiness
 summary: I, with the help of two team mates, created a market plan and presented it.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/marketing.jpeg">
+ 
+</div>
 
   When I was a junior in High School I took marketing. My marketing teacher put me in a group with two other 
 classmates who eventually, became my teammates in the CTE competition. The competition lasted two days in which 

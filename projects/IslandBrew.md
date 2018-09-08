@@ -10,10 +10,7 @@ labels:
 
 summary: My first job as a barista!
 ---
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/th.jpeg">
-  
-</div>
+<img class="ui medium right floated rounded image" src="/images/th.jpeg">
 
   My very first job was at a coffee shop up the street from the University of Hawaii at Manoa.
 At Island Brew Cofeehouse Kaimuki, we serve food items such as sandwiches, waffles, and acai bowls, as well as coffee. As a worker 

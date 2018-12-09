@@ -15,9 +15,7 @@ labels:
 summary:For a final Project for ICS 314, my team and I put together a web app.
 ---
 
-<div class="ui small rounded images">
   <img class="ui image" src="../images/jiffyprofile.png">
-</div>
 
 During my Fall Semester at University of Hawaii at Manoa, I took ICS 314 where I learned 
 about Software Engineering concepts. For our final project, we were assigned to put together a web app. 

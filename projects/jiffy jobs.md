@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: images/jiffyjobs.png
 title: Jiffy Jobs
 permalink: projects/jiffyjobs

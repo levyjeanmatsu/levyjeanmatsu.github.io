@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/jiffyjobs.png
+image: images/jiffjobs.png
 title: Jiffy Jobs
 permalink: projects/jiffyjobs
 # All dates must be YYYY-MM-DD format!

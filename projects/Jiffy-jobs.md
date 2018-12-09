@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: levyjeanmatsu.github.io/images/jiffjobs.png
+image: images/jiffjobs.png
 title: Jiffy Jobs
 permalink: projects/jiffyjobs
 # All dates must be YYYY-MM-DD format!
@@ -10,7 +10,6 @@ date: 2018-12-09
 labels:
   - Meteor
   - React
-  - JavaScript
   -Semantic UI
 summary:For a final Project for ICS 314, my team and I put together a web app.
 ---
